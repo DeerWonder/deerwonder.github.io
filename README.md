@@ -1,2 +1,2 @@
-# mywiki.github.io
+# deerwonder.github.io
 TiddlyWiki
